@@ -1,5 +1,3 @@
-# LeoSpa
-
 <img src="./src/assets/img/screencapture.png" alt="LeoSpa"/>
 
 ## Available Scripts
