@@ -1,6 +1,6 @@
 # LeoSpa
 
-<img src="screencapture.png" alt="LeoSpa"/>
+<img src="./src/assets/img/screencapture.png" alt="LeoSpa"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
