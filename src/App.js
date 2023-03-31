@@ -1,16 +1,12 @@
-import logo from "./assets/img/screencapture.png";
-import "./App.css";
-import { useEffect } from "react";
+import { Fragment } from "react";
+import Header from "./components/Header";
+import Banner from "./home/Banner";
 
 function App() {
-  useEffect(() => {
-    alert(" \n \n \n \n \n  সাইট ডিজাইন চলছে এটা ডেমো। \n \n \n ");
-  }, []);
-
   return (
-    <div className="App">
-      <img src={logo} alt="" />
-    </div>
+    <Fragment>
+      <Header />
+    </Fragment>
   );
 }
 

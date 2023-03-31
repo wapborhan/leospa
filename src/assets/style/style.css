@@ -95,6 +95,7 @@ li {
 }
 
 .head-comtent {
+  margin-left: 5%;
 }
 
 .head-comtent h5 {
@@ -163,6 +164,10 @@ a.watch-btn {
   position: absolute;
   top: 90px;
   left: 0;
+  z-index: -1;
+}
+.left-img img {
+  width: 100%;
 }
 
 .right-img {
