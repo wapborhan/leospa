@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/leospa/static/css/main.bf354f16.css",
-    "main.js": "/leospa/static/js/main.271d1531.js",
+    "main.css": "/leospa/static/css/main.d8deadb7.css",
+    "main.js": "/leospa/static/js/main.3b372a1c.js",
     "static/js/787.28d3ddf3.chunk.js": "/leospa/static/js/787.28d3ddf3.chunk.js",
-    "static/media/screencapture.png": "/leospa/static/media/screencapture.710067ed2f018e9cbe96.png",
+    "static/media/spa2.png": "/leospa/static/media/spa2.4a4311a7f46c34695daf.png",
+    "static/media/leaf.png": "/leospa/static/media/leaf.90d4e07040adbdabe5de.png",
     "index.html": "/leospa/index.html",
-    "main.bf354f16.css.map": "/leospa/static/css/main.bf354f16.css.map",
-    "main.271d1531.js.map": "/leospa/static/js/main.271d1531.js.map",
+    "main.d8deadb7.css.map": "/leospa/static/css/main.d8deadb7.css.map",
+    "main.3b372a1c.js.map": "/leospa/static/js/main.3b372a1c.js.map",
     "787.28d3ddf3.chunk.js.map": "/leospa/static/js/787.28d3ddf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf354f16.css",
-    "static/js/main.271d1531.js"
+    "static/css/main.d8deadb7.css",
+    "static/js/main.3b372a1c.js"
   ]
 }
