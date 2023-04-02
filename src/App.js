@@ -4,6 +4,9 @@ import About from "./home/About";
 import Procedures from "./home/Procedures";
 import Testimoinal from "./home/Testimoinal";
 import Team from "./home/Team";
+import Appoinment from "./home/Appoinment";
+import Contact from "./home/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +16,10 @@ function App() {
       <Procedures />
       <Testimoinal />
       <Team />
+      <Appoinment />
+      <Procedures />
+      <Contact />
+      <Footer />
     </Fragment>
   );
 }

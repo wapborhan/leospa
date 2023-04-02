@@ -77,7 +77,7 @@ const Header = () => {
             <div
               className="modal fade bd-example-modal-lg"
               id="video_pop"
-              tabindex="-1"
+              tabIndex="-1"
               role="dialog"
               aria-labelledby="myLargeModalLabel"
               aria-hidden="true"

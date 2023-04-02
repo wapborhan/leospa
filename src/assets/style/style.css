@@ -415,7 +415,7 @@ a.btn {
 .slick-slide .slide-content {
   /*    margin: 0 auto;*/
   padding: 50px 100px;
-  background: #fff;
+  /* background: #fff; */
   text-align: center;
 }
 
@@ -627,7 +627,9 @@ a.btn {
   padding: 50px 100px 0px 100px;
   /*    width: 650px;*/
 }
-
+.form-group {
+  margin-bottom: 1rem;
+}
 .appoinment-form-box {
   display: flex;
   justify-content: space-between;
